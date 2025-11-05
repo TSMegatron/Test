@@ -1,0 +1,38 @@
+{
+  "en": {
+    "languageName": "English",
+    "title": "☕ Indian Coffee House Menu",
+    "searchPlaceholder": "Search item...",
+    "reset": "Reset",
+    "categories": ["All", "Coffee", "Snacks", "Desserts", "Burgers"],
+    "view": "View",
+    "ar": "AR"
+  },
+  "hi": {
+    "languageName": "हिन्दी",
+    "title": "☕ भारतीय कॉफी हाउस मेनू",
+    "searchPlaceholder": "खोजें...",
+    "reset": "रीसेट करें",
+    "categories": ["सभी", "कॉफी", "नाश्ता", "मिठाई", "बर्गर"],
+    "view": "देखें",
+    "ar": "एआर"
+  },
+  "ta": {
+    "languageName": "தமிழ்",
+    "title": "☕ இந்தியன் காபி ஹவுஸ் மெனு",
+    "searchPlaceholder": "தேடுங்கள்...",
+    "reset": "மீட்டமைக்கவும்",
+    "categories": ["அனைத்தும்", "காபி", "இருப்புகள்", "இனிப்பு", "பர்கர்கள்"],
+    "view": "பார்",
+    "ar": "ஏஆர்"
+  },
+  "bn": {
+    "languageName": "বাংলা",
+    "title": "☕ ইন্ডিয়ান কফি হাউস মেনু",
+    "searchPlaceholder": "খুঁজুন...",
+    "reset": "রিসেট",
+    "categories": ["সব", "কফি", "স্ন্যাকস", "ডেসার্ট", "বার্গার"],
+    "view": "দেখুন",
+    "ar": "এআর"
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Filter Coffee",
+    "category": "Coffee",
+    "price": "₹99",
+    "desc": "Traditional South Indian filter coffee with a rich aroma.",
+    "ingredients": "Freshly ground coffee, chicory, milk, sugar",
+    "img": "images/Virgin_Mint_Mojito.jpg",
+    "glb": "models/3december_-_fizz_drinks.glb",
+    "veg": true,
+    "vegan": false
+  },
+  {
+    "id": 2,
+    "name": "Cold Drink",
+    "category": "Coffee",
+    "price": "₹129",
+    "desc": "Chilled creamy cold coffee topped with froth.",
+    "ingredients": "Freshly ground coffee, chicory, milk, sugar",
+    "img": "images/Virgin_Mint_Mojito.jpg",
+    "glb": "models/3december_-_fizz_drinks.glb",
+    "veg": true,
+    "vegan": false
+  },
+  {
+    "id": 3,
+    "name": "Cappuccino",
+    "category": "Coffee",
+    "price": "₹149",
+    "desc": "Espresso with steamed milk and a thick layer of foam.",
+    "ingredients": "Freshly ground coffee, chicory, milk, sugar",
+    "img": "images/Virgin_Mint_Mojito.jpg",
+    "glb": "models/cup_of_cappuccino.glb",
+    "veg": true,
+    "vegan": false
+  },
+  {
+    "id": 4,
+    "name": "Masala Chai",
+    "category": "Coffee",
+    "price": "₹79",
+    "desc": "Classic spiced Indian tea brewed with milk and ginger.",
+    "ingredients": "Tea leaves, milk, ginger, sugar",
+    "img": "images/Virgin_Mint_Mojito.jpg",
+    "glb": "models/cup_of_cappuccino.glb",
+    "veg": true,
+    "vegan": false
+  },
+  {
+    "id": 5,
+    "name": "Veg Sandwich",
+    "category": "Snacks",
+    "price": "₹89",
+    "desc": "Toasted bread layered with fresh veggies and mint chutney.",
+    "ingredients": "Fresh vegetables, bread, mint chutney",
+    "img": "images/sandwich.jpg",
+    "glb": "models/sandwich.glb",
+    "veg": true,
+    "vegan": true
+  },
+  {
+    "id": 6,
+    "name": "Classic Burger",
+    "category": "Snacks",
+    "price": "₹159",
+    "desc": "Grilled patty served with lettuce, tomato and special sauce.",
+    "ingredients": "Beef patty, lettuce, tomato, special sauce",
+    "img": "images/burger_top.jpeg",
+    "glb": "models/sandwich.glb",
+    "veg": false,
+    "vegan": false
+  },
+  {
+    "id": 7,
+    "name": "Samosa",
+    "category": "Snacks",
+    "price": "₹49",
+    "desc": "Crispy fried pastry stuffed with spiced potato filling.",
+    "ingredients": "Potato, spices, flour, oil",
+    "img": "images/samosa.jpeg",
+    "glb": "models/day_226_samosa.glb",
+    "veg": true,
+    "vegan": true
+  },
+  {
+    "id": 8,
+    "name": "Chocolate Cake",
+    "category": "Desserts",
+    "price": "₹179",
+    "desc": "Rich and moist chocolate cake with fudge icing.",
+    "ingredients": "Flour, chocolate, sugar, eggs, butter",
+    "img": "images/chocolate cake.jpeg",
+    "glb": "models/chocolate_cake.glb",
+    "veg": true,
+    "vegan": false
+  },
+  {
+    "id": 9,
+    "name": "Classic Burger",
+    "category": "Burgers",
+    "price": "₹149",
+    "desc": "Juicy beef burger with fresh vegetables and cheese.",
+    "ingredients": "Beef patty, cheese, vegetables, bun",
+    "img": "images/burger_front.jpeg",
+    "glb": "models/burger_realistic_free.glb",
+    "veg": false,
+    "vegan": false
+  },
+  {
+    "id": 10,
+    "name": "Chole Bhature",
+    "category": "Indian",
+    "price": "₹149",
+    "desc": "Deep fried bhature served with spicy chickpeas.",
+    "ingredients": "Flour, chickpeas, spices",
+    "img": "images/Virgin_Mint_Mojito.jpg",
+    "glb": "models/cup_of_cappuccino.glb",
+    "veg": true,
+    "vegan": false
+  }
+]
